@@ -1,0 +1,16 @@
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.exe
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.deps.json
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.runtimeconfig.json
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.runtimeconfig.dev.json
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.dll
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\ref\AdapterDesignPattern.dll
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.pdb
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.csproj.AssemblyReference.cache
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.AssemblyInfo.cs
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.dll
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\ref\AdapterDesignPattern.dll
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.pdb
+D:\DesignPatterns\design-patterns-c-sharp-adapter\Before\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.genruntimeconfig.cache
